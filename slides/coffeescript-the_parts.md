@@ -240,4 +240,4 @@
 
 * email: robert@hashrocket.com
 * (twitter|github): rbxbx
-
+* slides: coffeescript-theparts.heroku.com
